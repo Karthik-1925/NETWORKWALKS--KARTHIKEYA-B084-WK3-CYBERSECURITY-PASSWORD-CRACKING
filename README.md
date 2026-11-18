@@ -1,7 +1,7 @@
 # NETWORKWALKS--KARTHIKEYA-B084-WK3-CYBERSECURITY-PASSWORD-CRACKING
 
 **Internship:** Networkwalks Cybersecurity & Ethical Hacking Internship
-**Intern Name / ID:** KARTHIKEYA B084
+**Intern Name :** KARTHIKEYA SHAILESH KUMAR
 **Week:** Week 3
 **Task:** Password Cracking (Project Module 1 & Project Module 2)
 
